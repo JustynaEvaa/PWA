@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#492c19",
+    "background_color" : "#492c19",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/",
+    "name" : "Bóstwa Słowiańskie",
+    "short_name" : "DietiesAPP",
+    "description" : "Strona poświęcona słowiańskim bóstwom. Projekt zaliczeniowy.",
+    "icons" : [
+        {
+            "src" : "images/icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
