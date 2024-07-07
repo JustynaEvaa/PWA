@@ -3,7 +3,7 @@
     "background_color" : "#492c19",
     "display" : "fullscreen",
     "scope" : "/",
-    "start_url" : "/",
+    "start_url" : "/PWA/",
     "name" : "Bóstwa Słowiańskie",
     "short_name" : "DietiesAPP",
     "description" : "Strona poświęcona słowiańskim bóstwom. Projekt zaliczeniowy.",
